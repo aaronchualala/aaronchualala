@@ -9,19 +9,24 @@
 </div>
 
 ## 🧑🏻‍💻 About Me
-• Second-year undergraduate at Nanyang Technological University, Singapore
-• Studying Computer Science, Business and Mathematics as a <a href="https://www.ntu.edu.sg/education/undergraduate-programme/renaissance-engineering-programme-(rep)">Renaissance Engineering Programme</a> Scholar
-• Passionate about using enterprise technologies to solve hard business problems — I'm not able to publicly share most of my code, but you can read about my projects at my <a href="https://aaronchua.tech">Portfolio Website</a>!
+<div>• Second-year undergraduate at Nanyang Technological University, Singapore </div>
+<div>• Studying Computer Science, Business and Mathematics as a <a href="https://www.ntu.edu.sg/education/undergraduate-programme/renaissance-engineering-programme-(rep)">Renaissance Engineering Programme</a> Scholar </div>
+<div>• Passionate about using enterprise technologies to solve hard business problems — I'm not able to publicly share most of my code, but you can read about my projects at my <a href="https://aaronchua.tech">Portfolio Website</a>!</div>
 
 ## 🛠️ Skills
 ### Languages
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=blue)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=blue)
+
 
 ### Full-Stack Development
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)32
+![redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor)
+![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=React%20Router&logoColor=white)
+![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=Gatsby&logoColor=white)
 ![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-ffaa00?style=for-the-badge&logo=Amazon%20AWS)
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
@@ -32,17 +37,8 @@
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/aaronchualala)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:aaronchua0012@gmail.com)
 
+
+
 <!--
-**aaronchualala/aaronchualala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+https://simpleicons.org/
 -->
