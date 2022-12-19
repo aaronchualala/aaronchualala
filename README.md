@@ -1,17 +1,7 @@
-<div align="center">
-  <p><img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="100"/></p>
-  <h1>
-    Hi! I'm Aaron
-  </h1>
-  <h2>
-	  Welcome to my GitHub
-</h2>
-</div>
-
 ## 🧑🏻‍💻 About Me
 <div>• Second-year undergraduate at Nanyang Technological University, Singapore </div>
 <div>• Studying Computer Science, Business and Mathematics as a <a href="https://www.ntu.edu.sg/education/undergraduate-programme/renaissance-engineering-programme-(rep)">Renaissance Engineering Programme</a> Scholar </div>
-<div>• Passionate about using enterprise technologies to solve hard business problems — I'm not able to publicly share most of my code, but you can read about my projects at my website!</div>
+<div>• Passionate about using enterprise technologies to solve hard business problems — I'm not able to publicly share most of my code, but you can read about my projects at <a href="https://aaronchua.tech/">my website</a>!</div>
 
 ## 🛠️ Skills
 ### Languages
